@@ -43,4 +43,6 @@ Implement filtering, sorting, and checkout flow
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/myntra-clone.git
+   ## screenshot
+   ![image alt](screenshot.jpeg)
 
