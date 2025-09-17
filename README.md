@@ -20,7 +20,7 @@ A frontend-only clone of the popular e-commerce platform **Myntra**. This projec
 - **JavaScript (Vanilla/ES6)** – interactivity  
 - **Git & GitHub** – version control & hosting  
 
----##What I Learnt
+##What I Learnt
 
 Strengthened my HTML & CSS skills by replicating a real-world e-commerce layout.
 
