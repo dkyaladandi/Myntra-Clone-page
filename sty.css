@@ -1,0 +1,197 @@
+*{
+    margin:0;
+
+    box-sizing:border-box;
+}
+.nav{
+display: flex;
+background-color: aquamarine;
+height: 65px;
+align-items: center;
+justify-content: space-evenly;
+font-weight: 600px;
+
+}
+header{
+font-weight: 600px;
+
+position: fixed;
+width:100%;
+border-bottom-color:beige;
+border-bottom: 40px;
+
+}
+
+.logo {
+    background-image: url("Myntra-1.png");
+    background-size: contain;   /* fit inside box */
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 49px;
+    width: 40px;
+    margin:40px 0px 40px 0px;
+    
+    
+}
+
+
+.logo p{
+    margin-top: 36px;
+    margin-right: 10px;
+    text-align: center;
+}
+.navpanels{
+align-items: center;
+gap: 8px;
+font-weight: 600px;
+}
+
+.navpanels li{
+    display: inline-block;
+    padding: 0px 12px;
+    
+
+}
+.navpanels li:hover{
+border-bottom:4px solid rgb(36, 115, 193);
+margin-top: 12px;
+
+}
+.searchbar{
+    display: flex;
+  
+
+    font-size:13px;
+    align-items: center;
+    border:none;
+}
+
+.search{
+    font-size: 1.35em;
+    color:beige;
+    background-color: black;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+  text-align: center;
+  justify-content: center;
+  
+}
+.search-input{
+    height:38px;
+background: color #696e79;
+color: black;
+border-top-right-radius: 6px;
+border-bottom-right-radius: 6px;
+width:300px;
+
+}
+.profile{
+   text-align:center;
+    font-size: 1.0rem;
+}
+.wishlist{
+   text-align:center;
+    font-size: 1.0rem;
+ }
+    .Remainder{
+   text-align:center;
+    font-size: 1.0rem;
+}.Bag{
+   text-align:center;
+    font-size: 1.0rem;
+}
+.border{
+     border:2px solid transparent;
+}
+.border:hover{
+    color:aqua;
+    background-size: 1.2rem;
+    
+}
+.banner{
+    display: flex;
+   
+    
+}
+
+.img1{
+    margin-top:107px;
+    width: 100%;
+height: 350px;
+
+background-repeat: no-repeat;
+}
+.categoryheading{
+    font-size: 1.8rem;
+    font-weight: 1000px;
+    font-style: normal;
+}
+
+
+.items{
+display: flex;
+height: 250px;
+padding:22px 0px 15px;
+background-size: contain;
+background-repeat: no-repeat;
+gap: 5px;
+
+}
+.img11{
+    
+    height: 250px;
+padding:0px 0px 15px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+.img12{
+    
+    height: 250px;
+padding:0px 0px 15px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+.img13{
+    
+    height: 250px;
+padding:0px 0px 15px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+.img14{
+
+    height: 250px;
+padding:0px 0px 15px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+.img15{
+
+    height: 250px;
+padding:0px 0px 15px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+.img16{
+    
+    height: 250px;
+padding:0px 0px 15px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.img17{
+ height: 250px;
+padding:0px 0px 15px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+.img18{
+ height: 250px;
+padding:0px 0px 15px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+
+
